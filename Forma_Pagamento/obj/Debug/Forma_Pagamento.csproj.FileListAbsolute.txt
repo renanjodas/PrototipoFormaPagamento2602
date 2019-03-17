@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\Projetos\_implementacaoPrototipo\Forma_Pagamento\bin\Debug\Forma_Pagamento.exe.config
+C:\Users\Usuario\Documents\Projetos\_implementacaoPrototipo\Forma_Pagamento\bin\Debug\Forma_Pagamento.exe
+C:\Users\Usuario\Documents\Projetos\_implementacaoPrototipo\Forma_Pagamento\bin\Debug\Forma_Pagamento.pdb
+C:\Users\Usuario\Documents\Projetos\_implementacaoPrototipo\Forma_Pagamento\obj\Debug\Forma_Pagamento.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\_implementacaoPrototipo\Forma_Pagamento\obj\Debug\Forma_Pagamento.FormPagamento.resources
+C:\Users\Usuario\Documents\Projetos\_implementacaoPrototipo\Forma_Pagamento\obj\Debug\Forma_Pagamento.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Projetos\_implementacaoPrototipo\Forma_Pagamento\obj\Debug\Forma_Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\_implementacaoPrototipo\Forma_Pagamento\obj\Debug\Forma_Pagamento.exe
+C:\Users\Usuario\Documents\Projetos\_implementacaoPrototipo\Forma_Pagamento\obj\Debug\Forma_Pagamento.pdb
