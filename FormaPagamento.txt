@@ -1,0 +1,9 @@
+------------ Dados Pagamento ------------
+ 
+Cliente: Renan
+ 
+Valor da compra: 300
+ 
+Valor total à pagar: 270
+ 
+------------------------------------------
